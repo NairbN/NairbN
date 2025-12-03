@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Role-Software%20Engineer-1A1A1A?style=for-the-badge&labelColor=0D0D0D&color=3A3A3A">
@@ -26,8 +24,6 @@
 <img src="https://img.shields.io/badge/Open%20To-Full%20Time%20SWE%20Roles-1A1A1A?style=for-the-badge&labelColor=0D0D0D&color=3A3A3A">
 
 </div>
-
----
 
 <div align="center">
 
@@ -50,8 +46,6 @@ If you want to talk about software engineering, mobile development, AI projects,
 </div>
 
 
----
-
 ## About Me
 
 I am Brian — a UC San Diego Mathematics–Computer Science graduate who builds practical, scalable software with a focus on mobile development, AI applications, and full-stack engineering.
@@ -69,8 +63,6 @@ I focus on:
 - Delivering clean and thoughtful user experiences
 - Iterating from MVP to production-ready solutions
 - Applying AI where it meaningfully improves outcomes
-
----
 
 <div align="center">
 
@@ -94,12 +86,6 @@ I focus on:
 </p>
 
 
-
-
-
-
----
-
 ## Featured Projects
 
 **resuMAX — AI Resume Optimization Platform**  
@@ -116,8 +102,6 @@ An exploratory and predictive analytics project focused on player scoring outcom
 
 **Habitizer — Mobile Habit Tracking App**  
 An Android application built using Agile methodologies, featuring goal tracking, reminders, and user-centric interface design.
-
----
 
 ## GitHub Stats
 
@@ -136,7 +120,7 @@ An Android application built using Agile methodologies, featuring goal tracking,
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NairbN&theme=dark&hide_border=true&background=0D0D0D&ring=3A3A3A&fire=D9D9D9&currStreakLabel=D9D9D9&sideNums=D9D9D9&sideLabels=D9D9D9&stroke=3A3A3A&dates=D9D9D9" height="180" />
 </div>
 
----
+
 ## Contribution Activity
 
 <div align="center">
