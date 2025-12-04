@@ -34,7 +34,7 @@ If you want to talk about software engineering, mobile development, AI projects,
 </p>
 
 <!-- LinkedIn prioritized -->
-<a href="https://linkedin.com/in/brian-nguyen23">
+<a href="https://www.linkedin.com/in/brian-nguyen-41921a248/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-D9D9D9?style=for-the-badge&labelColor=1A1A1A&logo=linkedin&logoColor=FFFFFF">
 </a>
 
